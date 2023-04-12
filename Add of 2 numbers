@@ -4,7 +4,7 @@ int main()
     int a=10, b=6,c ;
     c=a+b;
     printf("%d",c);
-}                                      #1 
+}                                      
 
 
 #include<stdio.h>
@@ -14,4 +14,4 @@ int main()
     scanf("%d%d",&a,&b);
     printf("%d",a+b);
     
-}                                  #2
+}                                  
